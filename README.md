@@ -1,4 +1,4 @@
-# wavify
+# Wavify
 ever wondered what any file sounds like if it was interpereted as a wave file? 
 ## Brief
 This program only tacks a Wav file header ontop of whatever file you specify and then writes that out as a copy. You can play the wav file in audacity or whatever program you use for audio.
